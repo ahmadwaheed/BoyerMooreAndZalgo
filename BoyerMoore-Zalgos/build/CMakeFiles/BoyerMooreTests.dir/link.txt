@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/BoyerMooreTests.dir/BoyerMoorePreprocessingTests.cpp.o  -o BoyerMooreTests  -L/gtest/mybuild -rdynamic -lgtest -lpthread libBoyerMoorePreprocessingLib.a -Wl,-rpath,/gtest/mybuild 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/smelkris/ECS122B/Prompt/Zalgorithm.h
+list
+-
+string
+-
+vector
+-
+
+/home/smelkris/ECS122B/Prompt/ZalgorithmSanityCheck.cpp
+Zalgorithm.h
+/home/smelkris/ECS122B/Prompt/Zalgorithm.h
+gtest/gtest.h
+/home/smelkris/ECS122B/Prompt/gtest/gtest.h
+algorithm
+-
+random
+-
+string
+-
+

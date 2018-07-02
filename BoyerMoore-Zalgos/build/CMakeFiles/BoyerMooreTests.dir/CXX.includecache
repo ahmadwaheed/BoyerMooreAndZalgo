@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/smelkris/ECS122B/Prompt/BoyerMoorePreprocessing.h
+map
+-
+string
+-
+vector
+-
+
+/home/smelkris/ECS122B/Prompt/BoyerMoorePreprocessingTests.cpp
+BoyerMoorePreprocessing.h
+/home/smelkris/ECS122B/Prompt/BoyerMoorePreprocessing.h
+gtest/gtest.h
+/home/smelkris/ECS122B/Prompt/gtest/gtest.h
+
